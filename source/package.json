@@ -1,0 +1,22 @@
+{
+  "name": "assistant",
+  "version": "1.0.0",
+  "description": "Generador de Directorios",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiled212/assistant.git"
+  },
+  "author": "Daniel Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exiled212/assistant/issues"
+  },
+  "homepage": "https://github.com/exiled212/assistant#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}

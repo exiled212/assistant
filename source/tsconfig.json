@@ -1,0 +1,9 @@
+{
+    "compilerOptions":{
+        "removeComments":true,
+        "outFile" : "./main.js"
+    },
+
+    "files": [
+    ]
+}
